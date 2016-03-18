@@ -1,0 +1,14 @@
+$k = 10
+$p = 2
+penDown
+move 10
+repeat $p
+move $k
+repeat 5
+move 20
+turn 90
+end
+move 40
+move 50
+end
+move 20
